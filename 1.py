@@ -6,5 +6,4 @@ def branch1():
 def branch2():
     print("branch2")
 
-def branch3():
-
+print("deleted the branch3")
